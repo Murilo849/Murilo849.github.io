@@ -1,0 +1,159 @@
+{
+  "livros": [
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano_publicacao": 1899
+    },
+    {
+      "titulo": "O Primo Basílio",
+      "autor": "José de Alencar",
+      "ano_publicacao": 1878
+    },
+    {
+      "titulo": "A Moreninha",
+      "autor": "Joaquim Manuel de Macedo",
+      "ano_publicacao": 1844
+    },
+    {
+      "titulo": "Grande Sertão: Veredas",
+      "autor": "João Guimarães Rosa",
+      "ano_publicacao": 1956
+    },
+    {
+      "titulo": "O Cortiço",
+      "autor": "Aluisio Azevedo",
+      "ano_publicacao": 1890
+    },
+    {
+      "titulo": "Senhora",
+      "autor": "José de Alencar",
+      "ano_publicacao": 1875
+    },
+    {
+      "titulo": "O Primo Basílio",
+      "autor": "José de Alencar",
+      "ano_publicacao": 1878
+    },
+    {
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "ano_publicacao": 1967
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano_publicacao": 1949
+    },
+    {
+      "titulo": "Brave New World",
+      "autor": "Aldous Huxley",
+      "ano_publicacao": 1932
+    },
+    {
+      "titulo": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "ano_publicacao": 1951
+    },
+    {
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "ano_publicacao": 1937
+    },
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano_publicacao": 1954
+    },
+    {
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "ano_publicacao": 2003
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "ano_publicacao": 1997
+    },
+    {
+      "titulo": "O Diário de Anne Frank",
+      "autor": "Anne Frank",
+      "ano_publicacao": 1947
+    },
+    {
+      "titulo": "O Alienista",
+      "autor": "Machado de Assis",
+      "ano_publicacao": 1882
+    },
+    {
+      "titulo": "Moby Dick",
+      "autor": "Herman Melville",
+      "ano_publicacao": 1851
+    },
+    {
+      "titulo": "O Retrato de Dorian Gray",
+      "autor": "Oscar Wilde",
+      "ano_publicacao": 1890
+    },
+    {
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "ano_publicacao": 1915
+    },
+    {
+      "titulo": "A Arte da Guerra",
+      "autor": "Sun Tzu",
+      "ano_publicacao": -500
+    },
+    {
+      "titulo": "O Vendedor de Sonhos",
+      "autor": "Augusto Cury",
+      "ano_publicacao": 2008
+    },
+    {
+      "titulo": "O Lobo da Estepe",
+      "autor": "Hermann Hesse",
+      "ano_publicacao": 1927
+    },
+    {
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "ano_publicacao": 1943
+    },
+    {
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "ano_publicacao": 1945
+    },
+    {
+      "titulo": "A Culpa é das Estrelas",
+      "autor": "John Green",
+      "ano_publicacao": 2012
+    },
+    {
+      "titulo": "O Nome da Rosa",
+      "autor": "Umberto Eco",
+      "ano_publicacao": 1980
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano_publicacao": 1949
+    },
+    {
+      "titulo": "O Cemitério de Praga",
+      "autor": "Umberto Eco",
+      "ano_publicacao": 2010
+    },
+    {
+      "titulo": "O Homem que Confundiu sua Mulher com um Chapéu",
+      "autor": "Oliver Sacks",
+      "ano_publicacao": 1985
+    },
+    {
+      "titulo": "Sapiens: Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "ano_publicacao": 2011
+    }
+  ]
+}
